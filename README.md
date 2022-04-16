@@ -1,12 +1,12 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Map for DEVConnect
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+![image](https://user-images.githubusercontent.com/111600/163675019-9b2c1086-51b4-4cf5-a24c-97a054265d42.png)
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+This is a [WorkAdventure](https://workadventu.re) map for [DEVConnect](https://devconnect.org/)
 
-![map](./map.png)
+To understand how contribute, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
-## Installation
+## Local Installation for testing
 
 With npm installed (comes with [node](https://nodejs.org/en/)), run the following commands into a terminal in the root directory of this project:
 
